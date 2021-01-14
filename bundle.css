@@ -1,0 +1,12 @@
+.letter-btn {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+#controls {
+  margin-top: 10px;
+}
+#text-root{
+  margin-top: 10px;
+}
